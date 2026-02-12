@@ -15,7 +15,7 @@ I am transitioning from traditional management to a more technical approach, bui
 
 ### 📂 Portfolio & Learning Roadmap
 * [**python-foundations-it**](https://github.com/javierespitia83/python-foundations-it): My first steps in programming logic and utility scripts.
-* [**python-playground**] (https://github.com/javierespitia83/python-playground): **My Learning Laboratory.** This is where I keep code snippets, syntax notes, and daily coding experiments.
+* [**python-playground**](https://github.com/javierespitia83/python-playground): **My Learning Laboratory.** This is where I keep code snippets, syntax notes, and daily coding experiments.
 
 ---
 
