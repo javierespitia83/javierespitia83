@@ -14,8 +14,8 @@ I am transitioning from traditional management to a more technical approach, bui
 - **Data-Driven PM:** Creating utility tools for cost tracking and executive reporting.
 
 ### 📂 Portfolio & Learning Roadmap
-* [**python-foundations-it**](LINK): My first steps in programming logic and utility scripts.
-* [**python-playground**] https://github.com/javierespitia83/python-playground: **My Learning Laboratory.** This is where I keep code snippets, syntax notes, and daily coding experiments.
+* [**python-foundations-it**](https://github.com/javierespitia83/python-foundations-it): My first steps in programming logic and utility scripts.
+* [**python-playground**] (https://github.com/javierespitia83/python-playground): **My Learning Laboratory.** This is where I keep code snippets, syntax notes, and daily coding experiments.
 
 ---
 
