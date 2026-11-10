@@ -17,6 +17,13 @@ PMP® · PSM I · PSPO I · ITIL 5 · CCNP · AWS · Azure · English / Spanish 
 
 **[sprint-dashboard-demo](https://github.com/javierespitia83/sprint-dashboard-demo)**: a static, zero-dependency Scrum dashboard (current sprint, backlog readiness, quality intake, multi-team portfolio) built with AI agents from a written spec, with a ~100-entry decision log and about 600 automated acceptance checks in headless Chrome. Published with anonymized demo data. [Live demo](https://javierespitia83.github.io/sprint-dashboard-demo/)
 
+**Municipal Tax Intelligence** *(private, 2026)*: weekly monitoring of local tax regulation (industry and commerce tax, withholding, filing calendars, tax statutes) across Colombia's 1,104 municipalities, built with AI agents as a subscription-service proposal.
+- **Collection:** source discovery for every municipality and collectors for the main site platforms (a government CMS API, SharePoint REST, WordPress and plain HTML), with a manually curated layer for the largest cities without an API.
+- **Change detection:** weekly snapshots compared by content hash, so only documents that actually changed go on to be read; in a typical week that leaves reading work in about 3% of municipalities.
+- **Document AI:** download → page-level text with Spanish OCR for scanned files → LLM extraction of filing deadlines by taxpayer ID digit, each one tied to its page and quoted text, plus an automatic citation check. In a 16-city pilot, 1,120 deadlines were extracted and every citation matched its page; a human validation sheet is the final gate.
+- **Delivery:** a client-facing web app (per-municipality filing calendar, alerts, source links) on Cloudflare Pages, with a documented learning log and phase plan.
+
+
 ## 🧪 More
 
 - [finally](https://github.com/javierespitia83/finally): Python application for tracking financial markets.
