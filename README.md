@@ -1,45 +1,42 @@
 # Hi, I'm Carlos Javier Espitia 👋
 
-### Senior IT Project Manager · Software Builder in the AI Era
+**Technical Program Manager · Scrum Master · Building with AI agents**
 
-I started in **network operations and infrastructure** (Cisco environments, ISP operations) and spent 10+ years delivering complex technical programs. Today I also **build software**: I design, code and ship tools with Python, JavaScript and AI-assisted development, and I use them in my day-to-day work.
+I spent 15 years delivering complex technical programs, starting in network operations and infrastructure (Cisco, ISP and utility networks) and moving into enterprise SaaS delivery. Today I am a Technical Program Manager / Scrum Master for a distributed engineering team across four countries, and I build the tools I use to run it: I write the specs, direct AI coding agents to implement them, and verify the result with automated tests.
 
----
+PMP® · PSM I · PSPO I · ITIL 5 · CCNP · AWS · Azure · English / Spanish / Portuguese
 
-### 🚀 What I build
+## 🤖 How I use AI in delivery
 
-- **Delivery dashboard (web app):** a front end deployed on Cloudflare Pages that visualizes sprint and backlog health with burndown, cycle time and risk views.
-- **Automation pipeline:** Jira data pulled through MCP (JQL) → structured tracker → a Python exporter with validation, schema checks and atomic writes → JSON snapshots that feed the dashboard.
-- **AI-assisted workflows:** reusable agent skills and prompts that keep the pipeline consistent across tools (Claude, Codex), with Git-based reviews and deployment.
-- **Python tools:** market tracking, data validation and reporting utilities.
+- **Spec first, agents second.** I write what to build, the data rules and the definition of done before any code; agents (Claude Code, Codex) implement it, and an automated acceptance harness, not the agent, decides when it is finished.
+- **Agent skills for Scrum work.** Reusable skills that sync a sprint tracker from Jira, turn meeting transcripts into minutes and tracker notes, prepare demo and retro reviews and publish dashboard data through pull requests, using MCP connectors to Jira, Confluence and Slack.
+- **Human in the loop.** Agents draft; I review anything that leaves my machine. Nothing is sent, merged or published without my confirmation.
+- **Data over opinion.** I use delivery data in retrospectives: on my current team, work added after sprint start fell from about 59% to about 36% of sprint tickets, and work carried in from the previous sprint from about 34% to 14–16%.
 
-### 🧰 Tech stack
+## 📂 Featured project
 
-**Languages:** Python · JavaScript · HTML/CSS
-**Tools:** Git/GitHub · VS Code · Cloudflare Pages · Jira API/JQL · MCP · Claude Code and AI coding assistants
-**Background:** Networking · Cisco · IT infrastructure · Cloud governance
+**[sprint-dashboard-demo](https://github.com/javierespitia83/sprint-dashboard-demo)**: a static, zero-dependency Scrum dashboard (current sprint, backlog readiness, quality intake, multi-team portfolio) built with AI agents from a written spec, with a ~100-entry decision log and about 600 automated acceptance checks in headless Chrome. Published with anonymized demo data. [Live demo](https://javierespitia83.github.io/sprint-dashboard-demo/)
 
-### 📂 Featured Projects
+## 🧪 More
 
-- [**AF_Dashboard**](https://github.com/javierespitia83/AF_Dashboard): Web dashboard that turns project-tracking data into delivery insights (progress, cycle time, risk views). Static front end deployed on Cloudflare Pages, fed by a Python data pipeline.
-- [**finally**](https://github.com/javierespitia83/finally): Python application for tracking and monitoring financial markets (trading).
+- [finally](https://github.com/javierespitia83/finally): Python application for tracking financial markets.
+- [PythonNotebooks](https://github.com/javierespitia83/PythonNotebooks): notebooks from my PCAP (Certified Associate in Python Programming) preparation, from fundamentals to OOP, modules and exceptions.
+- [python-playground](https://github.com/javierespitia83/python-playground): experiments and prototypes.
 
-### 🎓 Learning Path
+## 🎓 Recent learning (2025–2026)
 
-- [**PythonNotebooks**](https://github.com/javierespitia83/PythonNotebooks): Jupyter notebook series covering my preparation for the **PCAP – Certified Associate in Python Programmer** certification, from fundamentals to OOP, modules and exceptions.
+- **AI and automation:** AI Coder: Complete Claude Code & Coding Agents (Udemy) · AI Builder: Agents, Voice Agents & Automations in n8n (Udemy) · AI Fundamentals skill track (DataCamp) · Generative AI & Prompt Engineering and Introduction to AI (IBM / Coursera) · LangChain fundamentals (DataCamp)
+- **Programming:** Python Programming Fundamentals, Building APIs in Python and GitHub Foundations skill tracks (DataCamp)
+- **Cloud and architecture:** AWS Solutions Architect SAA-C03 preparation · Google Cloud Platform Fundamentals · Software Architecture of Modern Large-Scale Systems (Udemy)
+- **Security:** CompTIA Security+ SY0-701 preparation · Application Security: The Complete Guide (Udemy)
 
-### 🧪 More
+## 🧰 Stack
 
-- [**python-playground**](https://github.com/javierespitia83/python-playground): Code experiments and prototypes.
+**Building:** Python · JavaScript · HTML/CSS · SQL · JSON Schema · Git/GitHub · GitHub Pages · Cloudflare Pages
+**AI:** Claude Code · Codex · agent skills and plugins · MCP (Jira, Confluence, Slack) · n8n · prompt and context engineering
+**Delivery:** Scrum · Kanban · Jira (JQL, workflows, dashboards) · Confluence · Power BI · RAID and risk management
+**Background:** Networking (MPLS, BGP, SD-WAN, GPON) · Cisco · cybersecurity and IAM · AWS · Azure
 
-### 🎯 Focus
+## 📫 Let's connect
 
-Where project leadership meets hands-on engineering: turning real delivery problems into working software, and using AI to build faster without losing quality.
-
-### 📫 Let's connect
-
-[LinkedIn](https://www.linkedin.com/in/javierespitia/) · Open to talking about software delivery, automation, AI-assisted development and IT strategy.
-
----
-
-> *"Never stop learning"*
+[LinkedIn](https://www.linkedin.com/in/javierespitia/) · Open to conversations about technical program management, agile delivery, and using AI agents to run delivery better.
